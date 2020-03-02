@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Github",
+    "link": "https://github.com/khalilbenachir",
+    "icon": "/icons/github.svg"
+  },
+  {
+    "id": 2,
+    "name": "StackOverflow",
+    "link": "https://stackoverflow.com/users/11247530/khaliloos-benk",
+    "icon": "/icons/stackoverflow.svg"
+  },
+  {
+    "id": 3,
+    "name": "Twitter",
+    "link": "https://twitter.com/khalilbenachir",
+    "icon": "/icons/twitter.svg"
+  }
+]
