@@ -22,7 +22,7 @@ module.exports = {
         fieldName: 'github',
         url: 'https://api.github.com/graphql',
         headers: {
-          Authorization: `bearer ${process.env.GITHUB_TOKEN}`,
+          Authorization: `bearer 1d8b6d7ea7d91ac150486ef0cb87c9a03fee61f8`,
         },
         fetchOptions: {},
       },
