@@ -1,13 +1,5 @@
 # Portfolio for developers
 
-[![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/new/project?template=https://github.com/smakosh/gatsby-portfolio-dev)
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/57c04515-1d1b-46e8-b531-213fabca9cc4/deploy-status)](https://app.netlify.com/sites/gatsby-portfolio-dev/deploys)
-
-## Theme
-
-[Gatsby-theme-portfolio](https://github.com/smakosh/gatsby-theme-portfolio)
-
 ## Features
 
 - Eslint/Prettier configured
@@ -101,24 +93,3 @@ yarn reset
 - React & GraphQL
 - VSCode
 - And these useful of JavaScript libraries & Gatsby plugins [package.json](package.json)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Contributors
-
-- [Ajay NS](https://github.com/ajayns) https://github.com/smakosh/gatsby-portfolio-dev/pull/3
-- [Ryan Lee](https://github.com/drdgvhbh) https://github.com/smakosh/gatsby-portfolio-dev/pull/6
-- [David](https://github.com/davidavz) https://github.com/smakosh/gatsby-portfolio-dev/pull/8
-- [Léu Almeida](https://github.com/LeuAlmeida) https://github.com/smakosh/gatsby-portfolio-dev/pull/21
-- [Kudakwashe Mupeni](https://github.com/2wce) https://github.com/smakosh/gatsby-portfolio-dev/pull/20
-- [sasannnn](https://github.com/sasannnn) https://github.com/smakosh/gatsby-portfolio-dev/pull/22
-- [Myself](https://smakosh.com)
-
-## Support
-
-If you love this Gatsby template and want to support me, you can do so through my Patreon
-
-[![Support me on Patreon](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/smakosh)
-# my-portfolio
